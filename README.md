@@ -1,1 +1,2 @@
-# sairaj47
+# synchronousBallMovement
+Ball moving synchronously
